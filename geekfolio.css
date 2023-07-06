@@ -38,4 +38,4 @@ flex-direction: row-reverse;}
 
 .about-info{margin: 5px; padding: 5px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 
-.emni{background-color: red; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.emni{background-color: rgb(0, 255, 0); font-family: cursive; text-align: center; padding: 5px;}
