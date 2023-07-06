@@ -3,5 +3,10 @@ justify-content: space-between; align-items: center;}
 *{margin: 0px; padding: 0px;}
 .logo-photos{width:140px;}
 .menus{display: flex;}
-.item{margin-right: 10px; padding: 5px; font-size: 12px;}
+.item{margin-right: 10px; padding: 5px; font-size: 12px;
+cursor: pointer;}
 .item:hover{color: yellow;}
+.banner-image{width: 150px; height: 250px;}
+.banner-container{display: flex;
+justify-content: space-around;
+height: 300px; border: 2px solid gray;}   
